@@ -8,6 +8,7 @@ namespace XamCast
     {
         public App()
         {
+            //TEST
             InitializeComponent();
 
             MainPage = new NavigationPage(new MainPage());
